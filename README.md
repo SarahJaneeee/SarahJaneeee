@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarahJaneeee
 - 👀 I’m interested in learning about back end development
-- 🌱 I’m currently learning symbolic logic (starting from nothing- background in psych/counseling/education)
+- 🌱 I’m currently learning Python (starting from nothing- background in psych/counseling/education)
 - 💞️ I’m looking to collaborate with anyoneeee
 - 📫 How to reach me sarah@irwincomedy.com I'm not funny; I used to manage comedians
 
